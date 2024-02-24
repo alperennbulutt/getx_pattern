@@ -7,6 +7,6 @@ final ThemeData appThemeData = ThemeData(
   highlightColor: Colors.purple,
   fontFamily: 'Georgia',
   textTheme: const TextTheme(
-    headline1: TextStyle(fontSize: 72.0, fontWeight: FontWeight.bold),
+    displayLarge: TextStyle(fontSize: 72.0, fontWeight: FontWeight.bold),
   ),
 );
